@@ -1,0 +1,15 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+//BASE
+@import "base/reset";
+@import "base/typography";
+
+//COMPONENTS
+@import "components/carousel";
+@import "components/icon";
+
+//LAYOUT
+@import "layout/testimonio";
+@import "layout/header";
+@import "layout/mains";
+@import "layout/footer";

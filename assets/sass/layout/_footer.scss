@@ -1,0 +1,18 @@
+footer {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  & h3 {
+    color: white;
+    font-weight: 200;
+    text-transform: uppercase;
+  }
+  & .iconos-footer i {
+    margin: 15px 15px;
+  }
+}
+
+.custom-canvitas {
+  max-width: 200px;
+}
